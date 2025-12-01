@@ -9,4 +9,4 @@ print(f"Random Number: {number}")
 #random Winner
 #card game 
 #coin toss
-#random color generator
+#random color generators
