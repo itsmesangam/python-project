@@ -10,3 +10,9 @@ print(f"Random Number: {number}")
 #card game 
 #coin toss
 #random color generators
+
+import random
+fruits = ["apple", "banana", "mango", "orange"]
+random.shuffle(fruits)
+
+print(fruits)
